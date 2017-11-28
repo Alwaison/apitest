@@ -2,210 +2,210 @@
 	"sales": [
 	  {
 		"_id": "5a1d3321cee74fdd3396d1c7",
-		"product_id": 196755,
+		"product_id": "0196755",
 		"channel_id": 4,
 		"count": 1,
 		"date": "2017-11-28T06:26:51-01:00"
 	  },
 	  {
 		"_id": "5a1d33214a5f7c58c3cab004",
-		"product_id": 192568,
+		"product_id": "0192568",
 		"channel_id": 3,
 		"count": 5,
 		"date": "2017-11-28T09:39:37-01:00"
 	  },
 	  {
 		"_id": "5a1d33210000760f15efbe94",
-		"product_id": 201064,
+		"product_id": "0201064",
 		"channel_id": 3,
 		"count": 4,
 		"date": "2017-11-28T10:32:38-01:00"
 	  },
 	  {
 		"_id": "5a1d3321b83ecd04d80018f7",
-		"product_id": 197932,
+		"product_id": "0197932",
 		"channel_id": 1,
 		"count": 4,
 		"date": "2017-11-28T03:14:37-01:00"
 	  },
 	  {
 		"_id": "5a1d3321aace22f93d1bd33f",
-		"product_id": 197932,
+		"product_id": "0197932",
 		"channel_id": 1,
 		"count": 3,
 		"date": "2017-11-28T12:43:54-01:00"
 	  },
 	  {
 		"_id": "5a1d3321329a69f745ed689d",
-		"product_id": 197932,
+		"product_id": "0197932",
 		"channel_id": 2,
 		"count": 1,
 		"date": "2017-11-28T04:20:23-01:00"
 	  },
 	  {
 		"_id": "5a1d3321c7d0829f405a5012",
-		"product_id": 196755,
+		"product_id": "0196755",
 		"channel_id": 1,
 		"count": 3,
 		"date": "2017-11-28T01:04:45-01:00"
 	  },
 	  {
 		"_id": "5a1d332116f45732d3c5f9b4",
-		"product_id": 192568,
+		"product_id": "0192568",
 		"channel_id": 4,
 		"count": 1,
 		"date": "2017-11-28T12:34:45-01:00"
 	  },
 	  {
 		"_id": "5a1d3321b637c7ee1e8001da",
-		"product_id": 196755,
+		"product_id": "0196755",
 		"channel_id": 1,
 		"count": 3,
 		"date": "2017-11-28T01:26:50-01:00"
 	  },
 	  {
 		"_id": "5a1d332139e2a2a2db908ce3",
-		"product_id": 198476,
+		"product_id": "0198476",
 		"channel_id": 2,
 		"count": 3,
 		"date": "2017-11-28T07:51:49-01:00"
 	  },
 	  {
 		"_id": "5a1d3321b06173ba724975d4",
-		"product_id": 197932,
+		"product_id": "0197932",
 		"channel_id": 1,
 		"count": 1,
 		"date": "2017-11-28T12:21:34-01:00"
 	  },
 	  {
 		"_id": "5a1d3321ae1dc099a1202aec",
-		"product_id": 198476,
+		"product_id": "0198476",
 		"channel_id": 2,
 		"count": 3,
 		"date": "2017-11-28T05:47:12-01:00"
 	  },
 	  {
 		"_id": "5a1d3321b0e7d5e6f3584e31",
-		"product_id": 198476,
+		"product_id": "0198476",
 		"channel_id": 1,
 		"count": 1,
 		"date": "2017-11-28T05:19:46-01:00"
 	  },
 	  {
 		"_id": "5a1d3321fb6a086e2e1fbbcd",
-		"product_id": 196755,
+		"product_id": "0196755",
 		"channel_id": 4,
 		"count": 1,
 		"date": "2017-11-28T08:55:28-01:00"
 	  },
 	  {
 		"_id": "5a1d3321c66e4c249a29852e",
-		"product_id": 197394,
+		"product_id": "0197394",
 		"channel_id": 4,
 		"count": 3,
 		"date": "2017-11-28T10:39:10-01:00"
 	  },
 	  {
 		"_id": "5a1d33214c451763e8c4c464",
-		"product_id": 201064,
+		"product_id": "0201064",
 		"channel_id": 3,
 		"count": 5,
 		"date": "2017-11-28T04:43:28-01:00"
 	  },
 	  {
 		"_id": "5a1d3321ccd0925cd9f4f9b3",
-		"product_id": 197394,
+		"product_id": "0197394",
 		"channel_id": 3,
 		"count": 3,
 		"date": "2017-11-28T10:32:58-01:00"
 	  },
 	  {
 		"_id": "5a1d3321de41b2a20ca059bd",
-		"product_id": 197297,
+		"product_id": "0197297",
 		"channel_id": 1,
 		"count": 1,
 		"date": "2017-11-28T01:17:50-01:00"
 	  },
 	  {
 		"_id": "5a1d33214d247854ce015f12",
-		"product_id": 197297,
+		"product_id": "0197297",
 		"channel_id": 2,
 		"count": 2,
 		"date": "2017-11-28T05:21:30-01:00"
 	  },
 	  {
 		"_id": "5a1d3321bed753fd9b6db805",
-		"product_id": 197297,
+		"product_id": "0197297",
 		"channel_id": 3,
 		"count": 3,
 		"date": "2017-11-28T07:32:46-01:00"
 	  },
 	  {
 		"_id": "5a1d33219323c0785a836454",
-		"product_id": 197394,
+		"product_id": "0197394",
 		"channel_id": 2,
 		"count": 5,
 		"date": "2017-11-28T05:22:36-01:00"
 	  },
 	  {
 		"_id": "5a1d33214deb2c474529d2cc",
-		"product_id": 201064,
+		"product_id": "0201064",
 		"channel_id": 3,
 		"count": 4,
 		"date": "2017-11-28T05:17:25-01:00"
 	  },
 	  {
 		"_id": "5a1d3321f29911789a42760a",
-		"product_id": 198476,
+		"product_id": "0198476",
 		"channel_id": 1,
 		"count": 5,
 		"date": "2017-11-28T02:22:33-01:00"
 	  },
 	  {
 		"_id": "5a1d3321b05b049359f19fa5",
-		"product_id": 192568,
+		"product_id": "0192568",
 		"channel_id": 1,
 		"count": 4,
 		"date": "2017-11-28T02:16:35-01:00"
 	  },
 	  {
 		"_id": "5a1d33219d6a96ab13646539",
-		"product_id": 198476,
+		"product_id": "0198476",
 		"channel_id": 4,
 		"count": 2,
 		"date": "2017-11-28T03:09:32-01:00"
 	  },
 	  {
 		"_id": "5a1d3321a02acc733c4b9685",
-		"product_id": 197932,
+		"product_id": "0197932",
 		"channel_id": 3,
 		"count": 4,
 		"date": "2017-11-28T06:14:56-01:00"
 	  },
 	  {
 		"_id": "5a1d3321174e8cc0953fa81f",
-		"product_id": 197394,
+		"product_id": "0197394",
 		"channel_id": 2,
 		"count": 1,
 		"date": "2017-11-28T10:07:20-01:00"
 	  },
 	  {
 		"_id": "5a1d33216a3a9422b1b66b55",
-		"product_id": 201064,
+		"product_id": "0201064",
 		"channel_id": 2,
 		"count": 3,
 		"date": "2017-11-28T08:52:07-01:00"
 	  },
 	  {
 		"_id": "5a1d3321a821857b394c7651",
-		"product_id": 196755,
+		"product_id": "0196755",
 		"channel_id": 1,
 		"count": 5,
 		"date": "2017-11-28T03:20:04-01:00"
 	  },
 	  {
 		"_id": "5a1d33216008b2c0c6b6b2f6",
-		"product_id": 192568,
+		"product_id": "0192568",
 		"channel_id": 1,
 		"count": 5,
 		"date": "2017-11-28T08:08:37-01:00"
