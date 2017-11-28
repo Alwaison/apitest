@@ -1,215 +1,215 @@
 {
 	"sales": [
 		{
-			"_id": "5a1d332116408755b573baed",
-			"product_id": "0197394",
-			"channel_id": 3,
-			"count": 1,
-			"date": "2017-11-28T12:42:30-01:00"
-		},
+			"count": 3, 
+			"channel_id": 4, 
+			"_id": "5a1d3c78910bee9efa5c70dd", 
+			"date": "2017-11-28T08:39:48-01:00", 
+			"product_id": "0195611"
+		}, 
 		{
-			"_id": "5a1d3321066cc18150b1ab6d",
-			"product_id": "0192568",
-			"channel_id": 3,
-			"count": 5,
-			"date": "2017-11-28T05:12:02-01:00"
-		},
+			"count": 5, 
+			"channel_id": 3, 
+			"_id": "5a1d3c783f8fca5a2fa0135a", 
+			"date": "2017-11-28T05:25:27-01:00", 
+			"product_id": "0195611"
+		}, 
 		{
-			"_id": "5a1d332128a86c8f79c47c89",
-			"product_id": "0201064",
-			"channel_id": 1,
-			"count": 3,
-			"date": "2017-11-28T01:17:02-01:00"
-		},
+			"count": 5, 
+			"channel_id": 2, 
+			"_id": "5a1d3c78b44694bab5fa96fe", 
+			"date": "2017-11-28T08:26:30-01:00", 
+			"product_id": "0197394"
+		}, 
 		{
-			"_id": "5a1d332150598bd30219d243",
-			"product_id": "0197932",
-			"channel_id": 2,
-			"count": 4,
-			"date": "2017-11-28T09:26:28-01:00"
-		},
+			"count": 3, 
+			"channel_id": 1, 
+			"_id": "5a1d3c781504e27461690cb9", 
+			"date": "2017-11-28T06:51:03-01:00", 
+			"product_id": "0194687"
+		}, 
 		{
-			"_id": "5a1d3321bf40529e660fe852",
-			"product_id": "0196755",
-			"channel_id": 2,
-			"count": 2,
-			"date": "2017-11-28T03:03:26-01:00"
-		},
+			"count": 5, 
+			"channel_id": 4, 
+			"_id": "5a1d3c783420d899666c6d39", 
+			"date": "2017-11-28T03:19:51-01:00", 
+			"product_id": "0197932"
+		}, 
 		{
-			"_id": "5a1d33213755de0e93bd9753",
-			"product_id": "0197394",
-			"channel_id": 3,
-			"count": 1,
-			"date": "2017-11-28T08:59:54-01:00"
-		},
+			"count": 4, 
+			"channel_id": 3, 
+			"_id": "5a1d3c78c739b744ca93edc2", 
+			"date": "2017-11-28T02:58:21-01:00", 
+			"product_id": "0195611"
+		}, 
 		{
-			"_id": "5a1d3321f1a797d79f72d6bb",
-			"product_id": "0201064",
-			"channel_id": 2,
-			"count": 1,
-			"date": "2017-11-28T07:41:19-01:00"
-		},
+			"count": 3, 
+			"channel_id": 4, 
+			"_id": "5a1d3c78265886b8c571a842", 
+			"date": "2017-11-28T09:34:32-01:00", 
+			"product_id": "0195611"
+		}, 
 		{
-			"_id": "5a1d33215136e7f13a555384",
-			"product_id": "0197394",
-			"channel_id": 1,
-			"count": 2,
-			"date": "2017-11-28T12:07:51-01:00"
-		},
+			"count": 2, 
+			"channel_id": 1, 
+			"_id": "5a1d3c78fab7c515a74d6efe", 
+			"date": "2017-11-28T07:07:33-01:00", 
+			"product_id": "0196755"
+		}, 
 		{
-			"_id": "5a1d3321a6571e5b5ebe0b12",
-			"product_id": "0197294",
-			"channel_id": 1,
-			"count": 5,
-			"date": "2017-11-28T12:40:37-01:00"
-		},
+			"count": 4, 
+			"channel_id": 1, 
+			"_id": "5a1d3c784a917704f83e9554", 
+			"date": "2017-11-28T03:15:26-01:00", 
+			"product_id": "0197294"
+		}, 
 		{
-			"_id": "5a1d33217f2fa2d48716a035",
-			"product_id": "0198476",
-			"channel_id": 2,
-			"count": 4,
-			"date": "2017-11-28T05:43:48-01:00"
-		},
+			"count": 5, 
+			"channel_id": 4, 
+			"_id": "5a1d3c78e711ebf78113c09e", 
+			"date": "2017-11-28T01:26:15-01:00", 
+			"product_id": "0196755"
+		}, 
 		{
-			"_id": "5a1d33211f46f797d484260c",
-			"product_id": "0192568",
-			"channel_id": 4,
-			"count": 1,
-			"date": "2017-11-28T03:02:55-01:00"
-		},
+			"count": 4, 
+			"channel_id": 3, 
+			"_id": "5a1d3c78457ae797d6b51220", 
+			"date": "2017-11-28T09:45:08-01:00", 
+			"product_id": "0197294"
+		}, 
 		{
-			"_id": "5a1d3321687a6a2681b3f31a",
-			"product_id": "0201064",
-			"channel_id": 4,
-			"count": 3,
-			"date": "2017-11-28T07:45:31-01:00"
-		},
+			"count": 5, 
+			"channel_id": 2, 
+			"_id": "5a1d3c7890941b3313dddd84", 
+			"date": "2017-11-28T05:37:58-01:00", 
+			"product_id": "0197394"
+		}, 
 		{
-			"_id": "5a1d33215c8eb8af25e465a3",
-			"product_id": "0197394",
-			"channel_id": 1,
-			"count": 1,
-			"date": "2017-11-28T01:19:34-01:00"
-		},
+			"count": 3, 
+			"channel_id": 3, 
+			"_id": "5a1d3c78fc16e926ad84b421", 
+			"date": "2017-11-28T07:38:01-01:00", 
+			"product_id": "0196755"
+		}, 
 		{
-			"_id": "5a1d3321d0003a0ae5628222",
-			"product_id": "0201064",
-			"channel_id": 2,
-			"count": 1,
-			"date": "2017-11-28T10:57:47-01:00"
-		},
+			"count": 5, 
+			"channel_id": 1, 
+			"_id": "5a1d3c7897c9acc070682b28", 
+			"date": "2017-11-28T02:31:04-01:00", 
+			"product_id": "0194687"
+		}, 
 		{
-			"_id": "5a1d3321753e039c735f5843",
-			"product_id": "0196755",
-			"channel_id": 1,
-			"count": 4,
-			"date": "2017-11-28T08:13:41-01:00"
-		},
+			"count": 5, 
+			"channel_id": 3, 
+			"_id": "5a1d3c7877d86538e49883c8", 
+			"date": "2017-11-28T11:06:00-01:00", 
+			"product_id": "0194687"
+		}, 
 		{
-			"_id": "5a1d3321cadf04d1b67b189c",
-			"product_id": "0197394",
-			"channel_id": 1,
-			"count": 3,
-			"date": "2017-11-28T12:50:06-01:00"
-		},
+			"count": 3, 
+			"channel_id": 2, 
+			"_id": "5a1d3c787eca76c27519ac9c", 
+			"date": "2017-11-28T08:02:02-01:00", 
+			"product_id": "0194687"
+		}, 
 		{
-			"_id": "5a1d3321677536595682cfeb",
-			"product_id": "0201064",
-			"channel_id": 2,
-			"count": 1,
-			"date": "2017-11-28T01:32:18-01:00"
-		},
+			"count": 4, 
+			"channel_id": 2, 
+			"_id": "5a1d3c787f5388ebc96022d5", 
+			"date": "2017-11-28T10:32:13-01:00", 
+			"product_id": "0195611"
+		}, 
 		{
-			"_id": "5a1d3321c1b0c694584bfc94",
-			"product_id": "0197294",
-			"channel_id": 1,
-			"count": 1,
-			"date": "2017-11-28T03:39:37-01:00"
-		},
+			"count": 5, 
+			"channel_id": 4, 
+			"_id": "5a1d3c78557109c28f7671bf", 
+			"date": "2017-11-28T06:26:55-01:00", 
+			"product_id": "0197394"
+		}, 
 		{
-			"_id": "5a1d3321d0ea807f857b3b3a",
-			"product_id": "0196755",
-			"channel_id": 1,
-			"count": 4,
-			"date": "2017-11-28T03:02:22-01:00"
-		},
+			"count": 3, 
+			"channel_id": 4, 
+			"_id": "5a1d3c78c1c9171e05584524", 
+			"date": "2017-11-28T07:29:58-01:00", 
+			"product_id": "0197394"
+		}, 
 		{
-			"_id": "5a1d33214a5a652cd05c435e",
-			"product_id": "0197932",
-			"channel_id": 4,
-			"count": 2,
-			"date": "2017-11-28T07:32:08-01:00"
-		},
+			"count": 5, 
+			"channel_id": 4, 
+			"_id": "5a1d3c787c06b8c8ce3a90f2", 
+			"date": "2017-11-28T05:10:39-01:00", 
+			"product_id": "0194687"
+		}, 
 		{
-			"_id": "5a1d3321f1154276d7623efc",
-			"product_id": "0197932",
-			"channel_id": 3,
-			"count": 2,
-			"date": "2017-11-28T12:44:33-01:00"
-		},
+			"count": 1, 
+			"channel_id": 3, 
+			"_id": "5a1d3c78996eb55c9d7a421b", 
+			"date": "2017-11-28T05:01:26-01:00", 
+			"product_id": "0196755"
+		}, 
 		{
-			"_id": "5a1d3321a8cdbd50982d9843",
-			"product_id": "0198476",
-			"channel_id": 2,
-			"count": 4,
-			"date": "2017-11-28T12:36:15-01:00"
-		},
+			"count": 5, 
+			"channel_id": 1, 
+			"_id": "5a1d3c78a89d2b860cdc6b38", 
+			"date": "2017-11-28T04:14:23-01:00", 
+			"product_id": "0197932"
+		}, 
 		{
-			"_id": "5a1d332126ba106d67b00216",
-			"product_id": "0192568",
-			"channel_id": 1,
-			"count": 4,
-			"date": "2017-11-28T07:07:43-01:00"
-		},
+			"count": 4, 
+			"channel_id": 3, 
+			"_id": "5a1d3c78f5e32fcc78d96536", 
+			"date": "2017-11-28T06:31:14-01:00", 
+			"product_id": "0197932"
+		}, 
 		{
-			"_id": "5a1d3321dfdfd340cf64cafa",
-			"product_id": "0192568",
-			"channel_id": 2,
-			"count": 5,
-			"date": "2017-11-28T12:55:04-01:00"
-		},
+			"count": 3, 
+			"channel_id": 1, 
+			"_id": "5a1d3c7847f7765f56d31f31", 
+			"date": "2017-11-28T04:26:53-01:00", 
+			"product_id": "0195611"
+		}, 
 		{
-			"_id": "5a1d33219ff57fc227c96ca5",
-			"product_id": "0198476",
-			"channel_id": 2,
-			"count": 2,
-			"date": "2017-11-28T04:32:08-01:00"
-		},
+			"count": 5, 
+			"channel_id": 3, 
+			"_id": "5a1d3c78b2c23b546a762c29", 
+			"date": "2017-11-28T02:01:35-01:00", 
+			"product_id": "0197394"
+		}, 
 		{
-			"_id": "5a1d3321b973a4da34d2e79f",
-			"product_id": "0192568",
-			"channel_id": 2,
-			"count": 4,
-			"date": "2017-11-28T11:58:24-01:00"
-		},
+			"count": 3, 
+			"channel_id": 1, 
+			"_id": "5a1d3c7875ac185a731f5821", 
+			"date": "2017-11-28T06:50:29-01:00", 
+			"product_id": "0197294"
+		}, 
 		{
-			"_id": "5a1d33214b505943bf30f7a3",
-			"product_id": "0197294",
-			"channel_id": 2,
-			"count": 1,
-			"date": "2017-11-28T07:36:53-01:00"
-		},
+			"count": 4, 
+			"channel_id": 4, 
+			"_id": "5a1d3c785e6cfc436e2c08a6", 
+			"date": "2017-11-28T08:05:30-01:00", 
+			"product_id": "0197394"
+		}, 
 		{
-			"_id": "5a1d332173f14e638b5715e3",
-			"product_id": "0197932",
-			"channel_id": 2,
-			"count": 2,
-			"date": "2017-11-28T03:47:43-01:00"
-		},
+			"count": 5, 
+			"channel_id": 1, 
+			"_id": "5a1d3c784639ee0a04d95853", 
+			"date": "2017-11-28T09:37:40-01:00", 
+			"product_id": "0197394"
+		}, 
 		{
-			"_id": "5a1d3321ee21442d306fe157",
-			"product_id": "0192568",
-			"channel_id": 3,
-			"count": 1,
-			"date": "2017-11-28T12:45:53-01:00"
-		},
+			"count": 3, 
+			"channel_id": 4, 
+			"_id": "5a1d3c787d9b9b4823d72308", 
+			"date": "2017-11-28T02:34:22-01:00", 
+			"product_id": "0195611"
+		}, 
 		{
-			"_id": "5a1d33211f367637ef37d325",
-			"product_id": "0197932",
-			"channel_id": 1,
-			"count": 3,
-			"date": "2017-11-28T08:20:49-01:00"
-		}  
+			"count": 1, 
+			"channel_id": 1, 
+			"_id": "5a1d3c78a3871ed31bbdbbb0", 
+			"date": "2017-11-28T07:26:59-01:00", 
+			"product_id": "0194687"
+		}
 	],
 	"channels": [
 		{
